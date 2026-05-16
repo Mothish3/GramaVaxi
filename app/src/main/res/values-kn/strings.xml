@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ</string>
+
+    <string name="title_dashboard">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ</string>
+    <string name="btn_register">ಹೊಸ ಪ್ರಾಣಿ ನೋಂದಣಿ</string>
+    <string name="btn_calendar">ಲಸಿಕೆ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="btn_alert">ರೋಗದ ಮುನ್ನೆಚ್ಚರಿಕೆ (ಪಶುವೈದ್ಯರಿಗೆ ವರದಿ ಮಾಡಿ)</string>
+
+    <string name="title_register">ಪ್ರಾಣಿ ನೋಂದಣಿ</string>
+    <string name="hint_breed">ತಳಿ ನಮೂದಿಸಿ (ಉದಾ: ಜರ್ಸಿ)</string>
+    <string name="hint_age">ವಯಸ್ಸು ನಮೂದಿಸಿ (ತಿಂಗಳುಗಳಲ್ಲಿ)</string>
+    <string name="btn_save">ಪ್ರಾಣಿ ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+
+    <string name="title_report">ಪಶುವೈದ್ಯರಿಗೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="hint_symptoms">ಪ್ರಾಣಿಯ ರೋಗಲಕ್ಷಣಗಳನ್ನು ವಿವರಿಸಿ...</string>
+    <string name="btn_send_alert">ತುರ್ತು ಮುನ್ನೆಚ್ಚರಿಕೆ ಕಳುಹಿಸಿ</string>
+</resources>

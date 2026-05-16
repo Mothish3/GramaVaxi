@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama-Vaxi</string>
+
+    <string name="title_dashboard">Grama-Vaxi</string>
+    <string name="btn_register">Register New Animal</string>
+    <string name="btn_calendar">Vaccine Calendar</string>
+    <string name="btn_alert">Disease Alert (Report to Vet)</string>
+
+    <string name="title_register">Register Animal</string>
+    <string name="hint_breed">Enter Animal Breed (e.g., Jersey)</string>
+    <string name="hint_age">Enter Age (in months)</string>
+    <string name="btn_save">Save Animal Profile</string>
+
+    <string name="title_report">Report to Vet</string>
+    <string name="hint_symptoms">Describe the animal\'s symptoms...</string>
+    <string name="btn_send_alert">Send Emergency Alert</string>
+</resources>

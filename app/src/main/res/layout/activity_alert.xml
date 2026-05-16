@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Report to Vet"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#D32F2F"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/etSymptoms"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:hint="Describe the animal's symptoms..."
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:gravity="top|left"
+        android:textSize="18sp"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/btnSendAlert"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Send Emergency Alert"
+        android:textSize="18sp"
+        android:backgroundTint="#D32F2F" />
+
+</LinearLayout>
